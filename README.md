@@ -15,7 +15,7 @@ You can click the Preview link to take a look at your changes.
 
 # My Github stats
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Duniaalkilany&show_icons=true&theme=radical&text_color=FFFFFF&bg_color=000000)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Qasem-moh&show_icons=true&theme=radical&text_color=FFFFFF&bg_color=000000)
 
 <!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duniaalkilany&layout=compact&card_width=445px&bg_color=000000&text_color=FFFFFF&title_color=ff3377)
 <!--  -->
