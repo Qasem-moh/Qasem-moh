@@ -17,8 +17,8 @@ You can click the Preview link to take a look at your changes.
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Duniaalkilany&show_icons=true&theme=radical&text_color=FFFFFF&bg_color=000000)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duniaalkilany&layout=compact&card_width=445px&bg_color=000000&text_color=FFFFFF&title_color=ff3377)
-
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Duniaalkilany&layout=compact&card_width=445px&bg_color=000000&text_color=FFFFFF&title_color=ff3377)
+<!--  -->
 # Contact me
 <a href="https://twitter.com/AlkilanyDunia">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"height=30px />
@@ -50,4 +50,5 @@ You can click the Preview link to take a look at your changes.
 <!-- <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duniaalkilany&layout=compact&border_color=#ff0000" />
 </a>
+ -->
  -->
