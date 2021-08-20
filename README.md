@@ -30,26 +30,25 @@ You can click the Preview link to take a look at your changes.
 </a> 
 
 
-<!-- <a href="https://www.instagram.com/duniaalkilany/">
+<a href="https://www.instagram.com/qasem_kmc/">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=30px/>
-</a> -->
+</a>
 
-<!-- <a href="https://www.linkedin.com/in/dunia-alkilany-991ba31a8/">
+ <a href="https://www.linkedin.com/in/qasem-mohammad-593459200/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30px  />
 </a>
 
-<a href="duniaalkilany908@gmail.com">
+<a href="qasemcoder2020@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"height=30px />
 </a>
- -->
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Duniaalkilany&show_icons=true&theme=radical" />
+ 
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=qasem-moh&show_icons=true&theme=radical" />
 </a>
- -->
 
 
-<!-- <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Duniaalkilany&layout=compact&border_color=#ff0000" />
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=qasem-moh&layout=compact&border_color=#ff0000" />
 </a>
- -->
- -->
+
