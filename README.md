@@ -1,6 +1,6 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=Hi%20there!&fontAlign=80&fontAlignY=40&color=gradient)
-### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height=25px />
+<!-- ### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height=25px /> -->
 - 👋 Hi, I’m @Qasem-moh
 - 👀 I’m interested in Coding ...
 - 🌱 I’m currently learning python...
