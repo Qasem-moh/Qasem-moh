@@ -69,7 +69,7 @@ You can click the Preview link to take a look at your changes.
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height=30px/>
 </a>
 
- <a href="https://www.linkedin.com/in/qasem-mohammad-593459200/">
+ <a href="https://www.linkedin.com/in/qasem-mohammad-5861182a2/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height=30px  />
 </a>
 
