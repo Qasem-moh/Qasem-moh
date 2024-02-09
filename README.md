@@ -60,8 +60,8 @@ You can click the Preview link to take a look at your changes.
 <img src="https://cdn.simpleicons.org/express/blue/lightblue" alt="express" width="45" height="45"/>   
 <img src="https://cdn.simpleicons.org/redux" alt="redux" width="45" height="45"/>
   <img src="https://cdn.simpleicons.org/jetbrains/pink" alt="jetbrains" width="45" height="45"/>
- <img src="https://cdn.simpleicons.org/webstorm/lightblue" alt="jetbrains" width="45" height="45"/>
-
+ <img src="https://cdn.simpleicons.org/webstorm/lightblue" alt="webstorm" width="45" height="45"/>
+ <img src="https://cdn.simpleicons.org/ejs/vlack" alt="ejs" width="45" height="45"/>
 </p>
 
 
