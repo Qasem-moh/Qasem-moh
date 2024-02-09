@@ -58,7 +58,9 @@ You can click the Preview link to take a look at your changes.
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="figma" width="45" height="45"/>   
    <img src="https://cdn.simpleicons.org/npm" alt="npm" width="45" height="45"/>   
 <img src="https://cdn.simpleicons.org/express/blue/lightblue" alt="express" width="45" height="45"/>   
-<img src="https://cdn.simpleicons.org/redux" alt="redux" width="45" height="45"
+<img src="https://cdn.simpleicons.org/redux" alt="redux" width="45" height="45"/>
+  <img src="https://cdn.simpleicons.org/jetbrains" alt="jetbrains" width="45" height="45"/>
+
 </p>
 
 
