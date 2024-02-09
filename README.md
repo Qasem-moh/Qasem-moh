@@ -72,7 +72,8 @@ You can click the Preview link to take a look at your changes.
  <h2 align="center"> Contact me 📩  </h2>
 
 <!-- # Contact me -->
-<a href="https://twitter.com/CoderQasemMoh">
+<div align="center">
+  <a href="https://twitter.com/CoderQasemMoh">
 <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"height=30px /> 
 </a>
 
@@ -93,6 +94,7 @@ You can click the Preview link to take a look at your changes.
 <a href="qasemcoder2020@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"height=30px />
 </a>
+</div>
 <!--  
 <a href="https://github.com/anuraghazra/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=qasem-moh&show_icons=true&theme=radical" />
