@@ -113,9 +113,9 @@ You can click the Preview link to take a look at your changes.
 <br/><br/>
 <br/>
 
-
+<div align="center">
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=320&section=footer&text=Welcome%20to%20my%20Github!&fontSize=60)
-
+</div>
 
 
 
