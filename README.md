@@ -1,15 +1,17 @@
 
 ![waving](https://capsule-render.vercel.app/api?type=waving&height=250&text=Hi%20there!&fontAlign=80&fontAlignY=40&color=gradient)
 <!-- ### Hi there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" height=25px /> -->
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+</div><br/>
+
 - 👋 Hi, I’m @Qasem-moh
 - 👀 I’m interested in Coding ...
 - 🌱 I’m currently learning python...
 - 💞️ I’m looking to collaborate on Building Graduation Projects for students ...
 - 📫 How to reach me ...
 
-<div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
+
 <!---
 Qasem-moh/Qasem-moh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
