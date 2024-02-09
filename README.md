@@ -97,8 +97,8 @@ You can click the Preview link to take a look at your changes.
 </a> -->
 <!-- <br/> -->
 <br/>
-![Snake animation](https://github.com/qasem-moh/qasem-moh/blob/output/github-contribution-grid-snake.svg)
-<br/><br/><br/>
+<!-- ![Snake animation](https://github.com/qasem-moh/qasem-moh/blob/output/github-contribution-grid-snake.svg)
+<br/><br/><br/> -->
 
 
 ![footer](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=320&section=footer&text=Welcome%20to%20my%20Github!&fontSize=60)
